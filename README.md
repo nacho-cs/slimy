@@ -4,6 +4,7 @@
 
 Slimy is a tool to find slime chunk clusters in Minecraft seeds.
 It can search on either the CPU or the GPU, and makes use of multithreading to speed up the CPU search.
+beeep boop fuck this
 
 ## Usage
 
